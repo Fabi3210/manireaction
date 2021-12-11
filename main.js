@@ -6,4 +6,5 @@
 window.onload = function() {
     let admin = document.getElementById('adminA')
     admin.style.visibility = 'visible'
+    console.log('test');
 }
